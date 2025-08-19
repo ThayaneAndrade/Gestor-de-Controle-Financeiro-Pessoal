@@ -1,26 +1,25 @@
-# **Tema escolhido:** Nome da aplicação ou produto
+# **Gestor de Controle Financeiro Pessoal** 
 
 Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Experiência do Usuário e Front-End (CCP310) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel).
 
 ## Componentes do Grupo
 
-- Nome Componente 1
-- Nome Componente 2
-- Nome Componente 3
+- Kaique Medeiros Moreira 
+- Thayane de Sousa Andrade 
 
 ## Resumo
 
-Apresente uma breve descrição da sua aplicação ou produto.
+Site intuitivo para planejamento financeiro e controle de gastos 
 
 ## Introdução
 
-- Apresente uma contextualização para o problema que o serviço ou poduto proposto irá resolver e por quê esse tipo de aplicação é necessária.
-- Em uma única frase, resuma o objetivo do serviço ou poduto.
-- Que tipo de experiência o serviço ou poduto deve proporcionar para os usuários?
+- Facilita o controle de gastos para usuários em geral: remove a necessidade de realizar cálculos matemáticos extensos e simplifica o registro de despesas.
+- Tem por objetivo: otimizar a gestão financeira do usuário
+- Proporciona uma jornada intuitiva e visual para acesso sem complicações.
 
 ## Publico Alvo
 
-- Determine o seu público alvo:
+- Pessoas organizando finanças.
 
 ### Personas
 
@@ -51,7 +50,7 @@ Apresente uma breve descrição da sua aplicação ou produto.
 - Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?
 - O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
 
-## Jornada do usuário
+## Jornada do usuário <--
 
 - Criar uma narrativa para o o seu serviço ou poduto com o usuário.
 - Determine o que o usuário realiza desde a primeira até o última interação com o serviço ou poduto.
@@ -90,3 +89,4 @@ Apresente uma breve descrição da sua aplicação ou produto.
 <!-- TODOs:
 - Add exemplos
  -->
+

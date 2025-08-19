@@ -1,4 +1,4 @@
-# **Gestor de Controle Financeiro Pessoal** 
+# **Gestor de Controle Financeiro Pessoal**: MyFinance 
 
 Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Experiência do Usuário e Front-End (CCP310) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel).
 
@@ -26,9 +26,17 @@ Site intuitivo para planejamento financeiro e controle de gastos
 - Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
 - Quais informações sobre o usuário o serviço ou poduto deve guardar?
 
-  - Persona primaira ...
-  - Persona secundária ...
-  - Outras personas ...
+Personas primárias: 
+  - Thales Santinato, 42 anos, CEO
+    Possui uma familia, casa própria e mora em um condomínio de luxo. Seus objetivos financeiros se extendem apenas ao trabalho, em controlar gastos na bolsa, investimentos e pagamentos salariais. Thales acredita que tempo é dinheiro, portanto, MyFinance o ajuda a controlar gastos de forma rápida e eficiente.
+  - Rosa da Conceição, 32 anos, MEI
+    Mãe solo, mora em casa de aluguel e possui carro próprio. Seus objetivos financeiros se extendem a seu pequeno negócio e gastos pessoais com seu filho e sua casa. MyFinance auxilia Rosa a separar os dois âmbitos, disponibilizando abas diferentes para sua empresa e seu individual, facilitando o cálculo de suas despesas.
+  - Nicolas Santos, 20 anos, universitário e CLT
+    Programador, mora na casa dos pais e não possui bens próprios até então. Seus objetivos se extendem a guardar dinheiro para um apartamento alugado e um veículo. MyFinance Auxilia Nicolas a controlar seus gastos balanceando sua renda com seus objetivos acompanhando suas economias.
+    
+Persona secundária:
+    Eva Maria das Dores, 74 anos, aposentada
+    
 
 ### Mapa de empatia
 
@@ -89,4 +97,5 @@ Site intuitivo para planejamento financeiro e controle de gastos
 <!-- TODOs:
 - Add exemplos
  -->
+
 
